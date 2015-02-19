@@ -13,7 +13,7 @@
           sqs_protocol=undefined::string()|undefined,
           sqs_port=undefined::non_neg_integer()|undefined,
           sns_scheme="http://"::string(),
-          sns_host="sns.amazonaws.com"::string(),
+          sns_host="sns.us-east-1.amazonaws.com"::string(),
           mturk_host="mechanicalturk.amazonaws.com"::string(),
           mon_host="monitoring.amazonaws.com"::string(),
           mon_port=undefined::non_neg_integer()|undefined,
